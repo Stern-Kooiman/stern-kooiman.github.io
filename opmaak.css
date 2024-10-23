@@ -19,6 +19,14 @@ text-decoration: none;
 Li a:hover(
 blackground-color:#111;
 )
-img {
+.page-image2{
   width: 50%; height: auto;
 }
+.page-image3{
+  width: 50%; height: auto;
+}
+.page-image4{
+  width: 50%; height: auto;
+}
+
+
