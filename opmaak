@@ -3,3 +3,17 @@ list-syle-type: none;
 Margin:0;
 padding:0;
 Oferflow:hidden;
+Blackground-color:#333;
+)
+li ( 
+float:left;
+)
+Li a(
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+) 
+/* Change the link color to #111(black) on hover*/
+Li a :hover(
