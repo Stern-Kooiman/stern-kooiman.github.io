@@ -19,3 +19,7 @@ text-decoration: none;
 Li a:hover(
 blackground-color:#111;
 )
+.page-image {
+   height: 50%;
+  width: 50%;
+}
