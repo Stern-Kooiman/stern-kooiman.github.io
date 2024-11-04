@@ -1,1 +1,23 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+<title>Binair selsel</title>
+   <link rel="stylesheet" type="text/css" href="opmaak.css">
+<meta charset="utf-8">
+</head>
+<body>
+  uitleg binair stelsel
+  <p>
+    <ul>
+   <li><a href="index.html">home</a></li>
+ <li><a href="Binairstelsel.html"">Binairstelsel.html</a></li>
+  <li><a href="kleurmodellen.html">kleurenmodellen.html</a></li>
+  </ul>  <br>
+<br>
+ <p> 
+   <img class="page-image 2" src="bunger.webp" alt="je bent fantastisch" width="600" height="400">   
+ </P>
+   <div class="desc">Hier een heerlijke hamburger. </div>
+</body>
+</html>
 
